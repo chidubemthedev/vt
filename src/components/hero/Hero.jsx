@@ -10,7 +10,7 @@ const heroContent = {
   heroMobileImage: heroImgMobile,
   heroTitleName: "Valentine Tom",
   heroDesignation: "Product Manager",
-  heroDescriptions: `I am passionate about creating impact with a deep rooted focus in understanding different markets and the needs of the customers. This drives my desire to create products that solve real problems and make a positive impact on people's lives.`,
+  heroDescriptions: `Results-driven Product Manager with 5+ years of experience leading end-to-end product development in fast-paced technology environments. Proven ability to define product vision, launch innovative solutions, and optimize performance through data-driven insights. Skilled at collaborating with cross-functional teams, conducting market research, and driving measurable impact. Currently seeking the next opportunity to build scalable, user-centric products.`,
   heroBtn: "more about me",
 };
 

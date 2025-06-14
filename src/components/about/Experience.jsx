@@ -2,27 +2,48 @@ import React from "react";
 
 const experienceContent = [
   {
+    year: "April 2025 — Present",
+    position: "Product Lead (Product Manager & Product Owner)",
+    compnayName: "Trustscomply",
+    details: `Spearheading product leadership by owning the product vision, strategy, and delivery roadmap across key compliance automation initiatives. \n
+    Doubling as Product Manager and Product Owner, aligning business goals with agile execution, driving cross-functional collaboration across engineering, design, and compliance. \n
+    Leading backlog grooming, sprint planning, and stakeholder reviews to ensure seamless feature delivery. \n
+    Conducting user research, regulatory analysis, and product discovery to define solutions that simplify trust and compliance workflows. \n
+    Leveraging analytics to define KPIs and monitor product performance, iterating to optimize outcomes. \n
+    Partnering with the executive team to influence go-to-market and scale product-market fit. \n
+    `,
+  },
+  {
+    year: "April 2024 — March 2025",
+    position: "Product Manager",
+    compnayName: "Wovenremit",
+    details: `Defined and communicated product vision and roadmap for global payment solutions, aligning deliverables with business goals. \n
+    Conducted market research and user interviews, integrating new features that improved user satisfaction by 20%. \n
+    Collaborated with engineering, design, and marketing to launch an FX app on the App Store, achieving 95% on-time delivery. \n
+    Authored PRDs, user stories, and acceptance criteria to ensure clear development requirements. \n
+    Monitored KPIs post-launch, iterating features based on analytics and feedback. \n
+    `,
+  },
+  {
     year: "May, 2023 — Present",
     position: "Product Manager",
     compnayName: "Automagic",
-    details: `Conducted  market research to identify user needs and preferences thereby prioritizing features for the MVP for two products; asset management tool and tennis app. \n
-    Developed product roadmaps and feature prioritization based on customer feedback and business goals which led to the successful launch of two  MVPs (Tennis Love & Asset) and a website (www.atmgc.xyz) in 90 days. \n
-    Collaborated with designers, developers, and QA to ensure timely delivery of high-quality products. \n
-    Created well detailed  user stories and acceptance criteria for product features which helped the development team in understanding the features. \n
-    Conducted user testing and gathering feedback to inform product improvements. \n
-    Analyzed product performance metrics and making data-driven decisions for future iterations.
+    details: `Led the development and launch of five MVPs  (Tennis Love , Korre, Dope, Onthejob, Asset) and corporate website (www.atmgc.xyz). \n
+    Conducted competitive analysis to prioritize features, balancing short-term goals and long-term strategy. \n
+    Partnered with design, development, and QA teams to deliver high-quality products that met rigorous standards. \n
+    Defined and tracked product performance metrics, leveraging data insights for continuous improvement. \n
+    Executed user and A/B testing to validate decisions and enhance UX. \n
     `,
   },
   {
     year: "November, 2023 — March 2024",
     position: "Product Manager",
     compnayName: "Fipay",
-    details: `Conducted  market research to identify user needs and preferences. \n
-    Developed product roadmaps and feature prioritization based on customer feedback and business goals. \n
-    Collaborating with designers, developers, and QA to ensure timely delivery of high-quality products (fipay.io). \n
-    Created well detailed user stories and acceptance criteria for product features which helped the development team in understanding the features. \n
+    details: `Developed product roadmaps and feature prioritization based on stakeholders feedback and business goals. \n
+    Collaborating with designers and developers to ensure timely delivery of features (fipay.io). \n
+    Created well detailed Product Requirement documents, user stories and acceptance criteria for product features which helped the development team in understanding the features. \n
     Conducted user testing and gathering feedback to inform product improvements. \n
-    Analyzed product performance metrics and making data-driven decisions for future iterations.
+    Analyzed product performance metrics and making data-driven decisions for future iterations. \n
     `,
   },
   {
@@ -65,16 +86,9 @@ const experienceContent = [
     year: "Jan 2020 — Present",
     position: "Operations Manager",
     compnayName: "Chrism Oil Nig. LTD",
-    details: `Negotiate with potential clients, partners, and stakeholders to discuss company needs and goals. \n
-    Monitor and track work progress and utilize results to make quality staff adjustments. \n
-    Document findings, prepare reports, and develop new processes to enhance operations. \n
-    Initiated monthly operations analysis to measure performance and reduce possible mistakes. \n
-    Ensure management and employees understand all business objectives and track every work progress. \n
-    Accomplished company goals by leading from a single branch office to three functional branches and an increased profit margin by over 40% with a higher retention rate.  \n
-    Oversee the recruitment, training, and coordination of all employee’s responsibilities. \n
-    Maintain a healthy work environment by establishing and enforcing standards according to operational needs and legal compliance. \n
-    Forecast requirements, prepare the annual budget, schedule expenditure, and analyze variance. \n
-    Manage all branch operations to implement changes and review the approval of all responsibilities.
+    details: `Partnered with stakeholders to define operational goals, growing the business from one to three branches and increasing profit margins by 40%. \n
+    Analyzed performance data to optimize processes, reducing errors by 15% through monthly operational reviews. \n
+    Led cross-functional teams to implement strategic initiatives, fostering collaboration and alignment. \n
     `,
   },
   {

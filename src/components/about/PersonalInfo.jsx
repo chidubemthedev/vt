@@ -6,7 +6,7 @@ const personalInfoContent = [
   // { meta: "Age", metaInfo: "99 Years", hasColor: "" },
   { meta: "Nationality", metaInfo: "Nigerian", hasColor: "" },
   { meta: "Full-Time/Contract", metaInfo: "Available", hasColor: "green" },
-  { meta: "Address", metaInfo: "Uyo, Nigeria", hasColor: "" },
+  { meta: "Address", metaInfo: "Lagos, Nigeria", hasColor: "" },
   { meta: "phone", metaInfo: "+2349075131896", hasColor: "" },
   { meta: "Email", metaInfo: "valentinetom2022@gmail.com", hasColor: "" },
   // { meta: "Skype", metaInfo: " steve.milner", hasColor: "" },

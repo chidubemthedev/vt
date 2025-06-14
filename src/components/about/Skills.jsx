@@ -55,8 +55,7 @@ const skillsContent = [
   {
     skillClass: "p90",
     skillPercent: "90",
-    skillName:
-      "Computer Literacy (Microsoft office, G-suite, Slack, ClickUp, Figma, Jira, Github, etc.)",
+    skillName: "Api Testing",
   },
 ];
 

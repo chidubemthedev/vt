@@ -128,38 +128,38 @@ const PortfolioData = [
       },
     ],
   },
-  // {
-  //   id: 8,
-  //   type: "dribble project",
-  //   image: Image8,
-  //   tag: ["graphic design"],
-  //   delayAnimation: "100",
-  //   modalDetails: [
-  //     {
-  //       project: "Website",
-  //       client: "Dribbble",
-  //       language: "HTML, CSS, Javascript",
-  //       preview: "www.dribbble.com",
-  //       link: "https://dribbble.com/ib-themes",
-  //     },
-  //   ],
-  // },
-  // {
-  //   id: 9,
-  //   type: "behence project",
-  //   image: Image9,
-  //   tag: ["graphic design", "mockup"],
-  //   delayAnimation: "200",
-  //   modalDetails: [
-  //     {
-  //       project: "Website",
-  //       client: "Behance",
-  //       language: "HTML, CSS, Javascript",
-  //       preview: "www.behance.com",
-  //       link: "https://www.behance.net/ib-themes",
-  //     },
-  //   ],
-  // },
+  {
+    id: 8,
+    type: "Woven Remit",
+    image: Image8,
+    tag: ["web", "website"],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "Website",
+        client: "Woven Remit",
+        language: "HTML, CSS, Javascript",
+        preview: "www.wovenremit.com",
+        link: "https://www.wovenremit.com",
+      },
+    ],
+  },
+  {
+    id: 9,
+    type: "Trust Comply",
+    image: Image9,
+    tag: ["web", "website"],
+    delayAnimation: "200",
+    modalDetails: [
+      {
+        project: "Website",
+        client: "Trust Comply",
+        language: "HTML, CSS, Javascript",
+        preview: "www.staging.trustscomply.com",
+        link: "https://www.staging.trustscomply.com",
+      },
+    ],
+  },
 ];
 
 export default PortfolioData;
